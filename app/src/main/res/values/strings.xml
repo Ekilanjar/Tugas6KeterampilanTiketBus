@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tiket Bus</string>
+    <string-array name="data_array">
+        <item>REGULER</item>
+        <item>EKSEKUTIF</item>
+        <item>VIP</item>
+        <item>VVIP</item>
+    </string-array>
+</resources>
